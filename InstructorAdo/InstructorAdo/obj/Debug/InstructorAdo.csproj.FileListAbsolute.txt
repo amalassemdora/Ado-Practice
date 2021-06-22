@@ -1,0 +1,10 @@
+E:\ITI\iti\WFD\ado\task\InstructorAdo\InstructorAdo\bin\Debug\InstructorAdo.exe.config
+E:\ITI\iti\WFD\ado\task\InstructorAdo\InstructorAdo\bin\Debug\InstructorAdo.exe
+E:\ITI\iti\WFD\ado\task\InstructorAdo\InstructorAdo\bin\Debug\InstructorAdo.pdb
+E:\ITI\iti\WFD\ado\task\InstructorAdo\InstructorAdo\obj\Debug\InstructorAdo.csprojAssemblyReference.cache
+E:\ITI\iti\WFD\ado\task\InstructorAdo\InstructorAdo\obj\Debug\InstructorAdo.Form1.resources
+E:\ITI\iti\WFD\ado\task\InstructorAdo\InstructorAdo\obj\Debug\InstructorAdo.Properties.Resources.resources
+E:\ITI\iti\WFD\ado\task\InstructorAdo\InstructorAdo\obj\Debug\InstructorAdo.csproj.GenerateResource.cache
+E:\ITI\iti\WFD\ado\task\InstructorAdo\InstructorAdo\obj\Debug\InstructorAdo.csproj.CoreCompileInputs.cache
+E:\ITI\iti\WFD\ado\task\InstructorAdo\InstructorAdo\obj\Debug\InstructorAdo.exe
+E:\ITI\iti\WFD\ado\task\InstructorAdo\InstructorAdo\obj\Debug\InstructorAdo.pdb
