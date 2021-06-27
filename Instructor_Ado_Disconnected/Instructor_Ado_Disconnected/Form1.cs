@@ -4,6 +4,7 @@ using System.Data.SqlClient;
 using System.Drawing;
 using System.Windows.Forms;
 
+
 namespace Instructor_Ado_Disconnected
 {
 	public partial class Instructor : Form

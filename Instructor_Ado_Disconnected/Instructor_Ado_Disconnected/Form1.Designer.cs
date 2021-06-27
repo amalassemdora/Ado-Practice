@@ -50,9 +50,9 @@ namespace Instructor_Ado_Disconnected
 			// dgv_instructor
 			// 
 			this.dgv_instructor.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-			this.dgv_instructor.Location = new System.Drawing.Point(80, 284);
+			this.dgv_instructor.Location = new System.Drawing.Point(108, 278);
 			this.dgv_instructor.Name = "dgv_instructor";
-			this.dgv_instructor.Size = new System.Drawing.Size(661, 192);
+			this.dgv_instructor.Size = new System.Drawing.Size(559, 192);
 			this.dgv_instructor.TabIndex = 0;
 			this.dgv_instructor.RowHeaderMouseClick += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.dgv_instructor_RowHeaderMouseClick);
 			// 
@@ -173,9 +173,8 @@ namespace Instructor_Ado_Disconnected
 			this.lbl_status.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.lbl_status.Location = new System.Drawing.Point(538, 247);
 			this.lbl_status.Name = "lbl_status";
-			this.lbl_status.Size = new System.Drawing.Size(51, 20);
+			this.lbl_status.Size = new System.Drawing.Size(0, 20);
 			this.lbl_status.TabIndex = 15;
-			this.lbl_status.Text = "label6";
 			// 
 			// Instructor
 			// 

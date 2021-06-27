@@ -1,0 +1,10 @@
+E:\ITI\iti\Ado\Day2\Task\Instructor_Layer\Instructor_Layer\bin\Debug\Instructor_Layer.exe.config
+E:\ITI\iti\Ado\Day2\Task\Instructor_Layer\Instructor_Layer\bin\Debug\Instructor_Layer.exe
+E:\ITI\iti\Ado\Day2\Task\Instructor_Layer\Instructor_Layer\bin\Debug\Instructor_Layer.pdb
+E:\ITI\iti\Ado\Day2\Task\Instructor_Layer\Instructor_Layer\obj\Debug\Instructor_Layer.csprojAssemblyReference.cache
+E:\ITI\iti\Ado\Day2\Task\Instructor_Layer\Instructor_Layer\obj\Debug\Instructor_Layer.Form1.resources
+E:\ITI\iti\Ado\Day2\Task\Instructor_Layer\Instructor_Layer\obj\Debug\Instructor_Layer.Properties.Resources.resources
+E:\ITI\iti\Ado\Day2\Task\Instructor_Layer\Instructor_Layer\obj\Debug\Instructor_Layer.csproj.GenerateResource.cache
+E:\ITI\iti\Ado\Day2\Task\Instructor_Layer\Instructor_Layer\obj\Debug\Instructor_Layer.csproj.CoreCompileInputs.cache
+E:\ITI\iti\Ado\Day2\Task\Instructor_Layer\Instructor_Layer\obj\Debug\Instructor_Layer.exe
+E:\ITI\iti\Ado\Day2\Task\Instructor_Layer\Instructor_Layer\obj\Debug\Instructor_Layer.pdb

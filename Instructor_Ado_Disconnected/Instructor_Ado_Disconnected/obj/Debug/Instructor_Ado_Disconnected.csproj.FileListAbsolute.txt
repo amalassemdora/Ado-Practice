@@ -8,3 +8,13 @@ E:\ITI\iti\Ado\Day2\Task\Instructor_Ado_Disconnected\Instructor_Ado_Disconnected
 E:\ITI\iti\Ado\Day2\Task\Instructor_Ado_Disconnected\Instructor_Ado_Disconnected\obj\Debug\Instructor_Ado_Disconnected.csproj.CoreCompileInputs.cache
 E:\ITI\iti\Ado\Day2\Task\Instructor_Ado_Disconnected\Instructor_Ado_Disconnected\obj\Debug\Instructor_Ado_Disconnected.exe
 E:\ITI\iti\Ado\Day2\Task\Instructor_Ado_Disconnected\Instructor_Ado_Disconnected\obj\Debug\Instructor_Ado_Disconnected.pdb
+E:\ITI\practice\Ado\Instructor_Ado_Disconnected\Instructor_Ado_Disconnected\bin\Debug\Instructor_Ado_Disconnected.exe.config
+E:\ITI\practice\Ado\Instructor_Ado_Disconnected\Instructor_Ado_Disconnected\bin\Debug\Instructor_Ado_Disconnected.exe
+E:\ITI\practice\Ado\Instructor_Ado_Disconnected\Instructor_Ado_Disconnected\bin\Debug\Instructor_Ado_Disconnected.pdb
+E:\ITI\practice\Ado\Instructor_Ado_Disconnected\Instructor_Ado_Disconnected\obj\Debug\Instructor_Ado_Disconnected.csprojAssemblyReference.cache
+E:\ITI\practice\Ado\Instructor_Ado_Disconnected\Instructor_Ado_Disconnected\obj\Debug\Instructor_Ado_Disconnected.Instructor.resources
+E:\ITI\practice\Ado\Instructor_Ado_Disconnected\Instructor_Ado_Disconnected\obj\Debug\Instructor_Ado_Disconnected.Properties.Resources.resources
+E:\ITI\practice\Ado\Instructor_Ado_Disconnected\Instructor_Ado_Disconnected\obj\Debug\Instructor_Ado_Disconnected.csproj.GenerateResource.cache
+E:\ITI\practice\Ado\Instructor_Ado_Disconnected\Instructor_Ado_Disconnected\obj\Debug\Instructor_Ado_Disconnected.csproj.CoreCompileInputs.cache
+E:\ITI\practice\Ado\Instructor_Ado_Disconnected\Instructor_Ado_Disconnected\obj\Debug\Instructor_Ado_Disconnected.exe
+E:\ITI\practice\Ado\Instructor_Ado_Disconnected\Instructor_Ado_Disconnected\obj\Debug\Instructor_Ado_Disconnected.pdb
